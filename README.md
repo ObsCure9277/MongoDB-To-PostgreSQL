@@ -1,4 +1,8 @@
 # Simple data migration from MongoDb to PostgreSQL
+ 
+## References
+ - [GitHub Repository](https://github.com/alxnkt/mongo-to-postgres)
+ - [npm Package](https://www.npmjs.com/package/mongo-to-postgres)
 
 This tiny tool is used for easy data migration from MongoDb database
 to PostgreSQL database. It uses appropriate ORMs: `mongoose` and 
