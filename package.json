@@ -1,0 +1,30 @@
+{
+  "type": "module",
+  "name": "mongo-to-postgres",
+  "version": "0.0.5",
+  "description": "Simple data migration from MongoDb to PostgreSQL",
+  "main": "index.js",
+  "author": "alxnkt <alxnkt@mail.ru>",
+  "license": "MIT",
+  "keywords": [
+    "mongo",
+    "postgres",
+    "migration",
+    "database"
+  ],
+  "homepage": "https://github.com/alxnkt/mongo-to-postgres",
+  "bugs": "https://github.com/alxnkt/mongo-to-postgres/issues",
+  "devDependencies": {
+    "@babel/core": "^7.19.0",
+    "@babel/eslint-parser": "^7.18.9",
+    "eslint": "^8.23.0"
+  },
+  "dependencies": {
+    "bookshelf": "^1.2.0",
+    "knex": "^2.3.0",
+    "mongo-to-postgres": "^0.0.6",
+    "mongoose": "^6.5.4",
+    "pg": "^8.8.0"
+  },
+  "packageManager": "yarn@4.9.1+sha512.f95ce356460e05be48d66401c1ae64ef84d163dd689964962c6888a9810865e39097a5e9de748876c2e0bf89b232d583c33982773e9903ae7a76257270986538"
+}
